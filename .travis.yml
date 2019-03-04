@@ -106,7 +106,7 @@ addons:
       - cabal-install-1.24
       - chktex
       - clang-3.4
-      - six-1.11.0
+      - python-six
       - cppcheck
       - devscripts
       - flawfinder
